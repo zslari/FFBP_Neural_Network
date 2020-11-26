@@ -14,7 +14,7 @@ The FFBPNetwork class users LayerList to create a network and provides training 
 The ANN is set to easily run with the XOR function (with and without a bias node), the value of the sin function from 0 to 1.57 radians, and the UCI Iris Dataset (CSV file found in this repo).
 
 
-https://www.researchgate.net/profile/Montalee_Sasananan/publication/281271367/figure/fig2/AS:284441772609536@1444827611106/Feed-Forward-Neural-Network-with-Back-Propagation.png
+![alt text](https://www.researchgate.net/profile/Montalee_Sasananan/publication/281271367/figure/fig2/AS:284441772609536@1444827611106/Feed-Forward-Neural-Network-with-Back-Propagation.png)
 
 
 
