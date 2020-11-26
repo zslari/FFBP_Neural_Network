@@ -11,7 +11,7 @@ The LayerList class implements and holds the input, hidden, and output layers of
 
 The FFBPNetwork class users LayerList to create a network and provides training and test methods to take advantage of the NNData class.
 
-This graphic from Buranajun, Prathana & Sasananan, Montalee & Sasananan, Setta. (2007). PREDICTION OF PRODUCT DESIGN AND DEVELOPMENT SUCCESS USING ARTIFICIAL NEURAL NETWORK shows how information from a single data point and its respective features are assigned to the input layer neurodes, while the labels, or expected values are assigned to the output layer neurodes.
+The graphic below from Buranajun, Prathana & Sasananan, Montalee & Sasananan, Setta. (2007). PREDICTION OF PRODUCT DESIGN AND DEVELOPMENT SUCCESS USING ARTIFICIAL NEURAL NETWORK shows how information from a single data point and its respective features are assigned to the input layer neurodes, while the labels, or expected values are assigned to the output layer neurodes.
 
 The network sends a signal downstream to hidden layer neurodes and finally to output layer neurodes comparing the results of what was predicted to what was expected. Once all neurodes have reported in, the backpropagation phase begins and feedback about the comparison of predicted versus expected results is sent upstream to input layer neurodes. This process usually needs to occur many, many, many, times to incrementally allow the network to move closer to correctly predicting the expected results.  After this process is performed on a portion of the trainining data set, the network will run with a testing data set and hopefully be able to predict a value close to our expected value with less and less error. 
 
