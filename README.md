@@ -9,5 +9,10 @@ The neural network sends a signal downstream to hidden layer neurodes and finall
 
 After this process is performed on a portion of the trainining data set, the network will run with a testing data set and hopefully be able to predict a value closer to our expected value with less and less error. 
 
-
 ![alt text](https://www.researchgate.net/profile/Montalee_Sasananan/publication/281271367/figure/fig2/AS:284441772609536@1444827611106/Feed-Forward-Neural-Network-with-Back-Propagation.png)
+
+
+## Quick Start
+
+1. Clone or download the repo
+2. Run `ANN.py`
