@@ -16,3 +16,4 @@ After this process is performed on a portion of the trainining data set, the net
 
 1. Clone or download the repo
 2. Run `main.py`
+3. Choose to run the Iris.csv dataset, sin function, XOR with bias, or XOR without bias to test the network
