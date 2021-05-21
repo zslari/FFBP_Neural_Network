@@ -1,7 +1,7 @@
 # FFBP_Neural_Network
 Feed Forward Back Propagating Neural Network built from scratch using Python
 
-This repository holds files to demonstrate how an Artificial Neural Network (ANN.py) can be built with Python while maintaining Object Oriented Design principles.
+This repository holds files to demonstrate how an Artificial Neural Network can be built with Python while maintaining Object Oriented Design principles.
 
 The graphic below shows how information from a single data point and its respective features are assigned to the input layer neurodes, while the labels, or expected values, are assigned to the output layer neurodes. 
 
