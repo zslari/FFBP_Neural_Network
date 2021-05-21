@@ -15,4 +15,4 @@ After this process is performed on a portion of the trainining data set, the net
 ## Quick Start
 
 1. Clone or download the repo
-2. Run `ANN.py`
+2. Run `main.py`
