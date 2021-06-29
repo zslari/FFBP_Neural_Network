@@ -7,7 +7,7 @@ The graphic below shows how information from a single data point and its respect
 
 The neural network sends a signal downstream to hidden layer neurodes and finally to output layer neurodes comparing the results of what was predicted to what was expected. Once all neurodes have reported in, the backpropagation phase begins and feedback about the comparison of predicted versus expected results is sent upstream to input layer neurodes. This process usually needs to occur many, many, many, times to incrementally allow the network to move closer to correctly predicting the expected results.
 
-After this process is performed on a portion of the trainining data set, the network will run with a testing data set and hopefully be able to predict a value closer to our expected value with less and less error. 
+After this process is performed on a portion of the training data set, the network will run with a testing data set and hopefully be able to predict a value closer to our expected value with less and less error. 
 
 ![alt text](https://www.researchgate.net/profile/Montalee_Sasananan/publication/281271367/figure/fig2/AS:284441772609536@1444827611106/Feed-Forward-Neural-Network-with-Back-Propagation.png)
 
