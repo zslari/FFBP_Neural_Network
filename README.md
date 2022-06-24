@@ -15,6 +15,6 @@ After this process is performed on a portion of the training data set, the netwo
 ## Quick Start
 
 1. Clone or download the repo
-2. Run 'pip install -r requirements.txt' from Terminal to install dependencies
+2. Run `pip install -r requirements.txt` from Terminal to install dependencies
 3. Run `main.py`
 4. Choose to run the Iris.csv dataset, sin function, XOR with bias, or XOR without bias to test the network
