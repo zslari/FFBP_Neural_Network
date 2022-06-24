@@ -9,7 +9,7 @@ The neural network sends a signal downstream to hidden layer neurodes and finall
 
 After this process is performed on a portion of the training data set, the network will run with a testing data set and hopefully be able to predict a value closer to our expected value with less and less error. 
 
-![alt text]((https://miro.medium.com/max/1200/1*Gh5PS4R_A5drl5ebd_gNrg@2x.png))
+![alt text](https://miro.medium.com/max/1200/1*Gh5PS4R_A5drl5ebd_gNrg@2x.png)
 
 
 ## Quick Start
